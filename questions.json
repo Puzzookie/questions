@@ -1,102 +1,42 @@
 [
   {
-    "Name": "What was the best date you've been on?",
+    "Name": "Have you ever questions",
     "Description": "0"
   },
   {
-    "Name": "What's the worst date you've been on?",
+    "Name": "Would you rather questions",
     "Description": "1"
   },
   {
-    "Name": "What are your favorite qualities about yourself?",
+    "Name": "Truth or dare questions",
     "Description": "2"
   },
   {
-    "Name": "What's your favorite physical qualities about yourself?",
+    "Name": "Icebreaker questions",
     "Description": "3"
   },
   {
-    "Name": "Who knows you best?",
+    "Name": "Questions to ask before you get married",
     "Description": "4"
   },
   {
-    "Name": "What's your worst restaurant experience?",
+    "Name": "Get to know you questions",
     "Description": "5"
   },
   {
-    "Name": "Who do you trust the most in your life?",
+    "Name": "Questions to test how well you know someone",
     "Description": "6"
   },
   {
-    "Name": "What's one person you could call for anything?",
+    "Name": "Personality questions",
     "Description": "7"
   },
   {
-    "Name": "Who do you trust the most in your life?",
+    "Name": "Deep questions",
     "Description": "8"
   },
   {
-    "Name": "What's one person you could call for anything?",
+    "Name": "Interesting questions to ask your co-workers",
     "Description": "9"
-  },
-  {
-    "Name": "If you could do anything tomorrow with no limits what would you do?",
-    "Description": "10"
-  },
-  {
-    "Name": "What is your dream job?",
-    "Description": "11"
-  },
-  {
-    "Name": "What pet do you wish to get?",
-    "Description": "12"
-  },
-  {
-    "Name": "What's the most unique animal you've seen?",
-    "Description": "13"
-  },
-  {
-    "Name": "When was the last time you had a really good laugh?",
-    "Description": "14"
-  },
-  {
-    "Name": "Who was the last person you texted?",
-    "Description": "15"
-  },
-  {
-    "Name": "Where do you wish to travel?",
-    "Description": "16"
-  },
-  {
-    "Name": "Favorite trip you've been on?",
-    "Description": "17"
-  },
-  {
-    "Name": "Who do you trust the most in your life?",
-    "Description": "18"
-  },
-  {
-    "Name": "What's your favorite accomplishment?",
-    "Description": "19"
-  },
-  {
-    "Name": "What's your favorite TV show?",
-    "Description": "20"
-  },
-  {
-    "Name": "How do you spend a perfect evening alone?",
-    "Description": "21"
-  },
-  {
-    "Name": "Where do you escape to when you need a break??",
-    "Description": "22"
-  },
-  {
-    "Name": "Have you ever been fired?",
-    "Description": "23"
-  },
-  {
-    "Name": "What does the perfect date look like?",
-    "Description": "24"
   }
 ]
