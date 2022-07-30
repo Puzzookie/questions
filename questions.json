@@ -1,60 +1,195 @@
 [
   {
-    "Name": "Have you ever...",
-    "Description": "0",
+    "Name": "Have You Ever",
     "Children": [
       {
-        "Name": "broken a bone?",
-        "Description": "0"
+        "Name": "Have you ever broken a bone?"
       },
       {
-        "Name": "held or petted a wild animal?",
-        "Description": "1"
+        "Name": "Have you ever been on the radio or on television?"
       },
       {
-        "Name": "been on television or on radio?",
-        "Description": "2"
+        "Name": "Have you ever talked on the phone for more than two hours?"
       },
       {
-        "Name": "stayed awake for an entire night?",
-        "Description": "3"
+        "Name": "Have you ever went sky diving, bungee jumping, or para-sailing?"
+      },
+      {
+        "Name": "Have you ever had a near-death experience?"
+      },
+      {
+        "Name": "Have you ever sung karaoke?"
+      },
+      {
+        "Name": "Have you ever had to get stitches?"
+      },
+      {
+        "Name": "Have you ever received won a contest and received a prize/trophy?"
+      },
+      {
+        "Name": "Have you ever met a famous person or a celebrity?"
       }
     ]
   },
   {
-    "Name": "Would you rather...",
-    "Description": "1"
-  },
-  {
-    "Name": "Truth or dare questions",
-    "Description": "2"
-  },
-  {
-    "Name": "First date",
-    "Description": "3"
+    "Name": "Would You Rather",
+    "Children": [
+      {
+        "Name": "Would you rather have the ability to see 10 minutes into the future or 150 years into the future?"
+      },
+      {
+        "Name": "Would you rather sing or dance to every song you hear?"
+      },
+      {
+        "Name": "Would you rather swim in a pool full of Nutella or a pool full of maple syrup?"
+      },
+      {
+        "Name": "Would you rather never be able to go out during the day or never be able to go out at night?"
+      },
+      {
+        "Name": "Would you rather have a full phone battery or a full gas tank?"
+      },
+      {
+        "Name": "Would you rather hear a comforting lie or an uncomfortable truth?"
+      },
+      {
+        "Name": "Would you rather someone see all the photos in your phone or read all your messages?"
+      },
+      {
+        "Name": "Would you rather lose your long-term memory or your short-term memory?"
+      },
+      {
+        "Name": "Would you rather eat an unercooked meal or a burnt meal?"
+      }
+    ]
   },
   {
     "Name": "Pre-marriage",
-    "Description": "4"
+    "Children": [
+      {
+        "Name": "Which love language do you find most valuable?"
+      },
+      {
+        "Name": "Which love language do you find least valuable?"
+      },
+      {
+        "Name": "How will chores be divided?"
+      },
+      {
+        "Name": "Do you want to go on vaccations? How often?"
+      },
+      {
+        "Name": "How would you feel if we vote differently?"
+      },
+      {
+        "Name": "Do you have any pets?"
+      },
+      {
+        "Name": "What's your favorite outdoor activity?"
+      },
+      {
+        "Name": "How will we do finances?"
+      },
+      {
+        "Name": "How often do you want to have beep?"
+      }
+    ]
   },
   {
-    "Name": "Get to know you questions",
-    "Description": "5"
-  },
-  {
-    "Name": "Test",
-    "Description": "6"
+    "Name": "Newlywed",
+    "Children": [
+      {
+        "Name": "How do you first meet your spouse?"
+      },
+      {
+        "Name": "Where did you go on your first date?"
+      },
+      {
+        "Name": "In one word, what describes your first impression of them?"
+      },
+      {
+        "Name": "When did you know that they were 'the one'?"
+      },
+      {
+        "Name": "When and where was your first kiss?"
+      },
+      {
+        "Name": "Who is the funniest?"
+      },
+      {
+        "Name": "Who is their celebrity crush?"
+      },
+      {
+        "Name": "What's their favorite movie?"
+      },
+      {
+        "Name": "Who does the most cleaning?"
+      }
+    ]
   },
   {
     "Name": "Personality",
-    "Description": "7"
+    "ImageURL": "https://personalityjunkie.com/wp-content/uploads/2013/01/extraverted-vs-introverted-sensing-comp.png",
+    "Children": [
+      {
+        "Name": "Si vs Se - Do you prefer to focus on events that have happened or do you prefer to observe all the things that are currently happening at an event?"
+      },
+      {
+        "Name": "Ne vs Ni - Do you prefer to brainstorm about all the things that could happen in a situation or do you prefer to focus on predicting one thing that would most likely happen in a situation?"
+      },
+      {
+        "Name": "Ti/Fi vs Te/Fe Self vs tribe - Are you more likely to put other's needs before your own or are you more likely to put your own needs before others?"
+      },
+      {
+        "Name": "Ti vs Fi If you were to protest something, is it more important that you have a logically good reason for doing it or that you have a morally good reason for doing it"
+      },
+      {
+        "Name": "Te vs Fe - When leading a group, is it more important to make rules that promote harmony or is it more important to make rules that promote efficiency?"
+      },
+      {
+        "Name": "Ni/Se vs Ne/Si"
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      },
+      {
+        "Name": ""
+      }
+    ]
   },
   {
     "Name": "Deep",
-    "Description": "8"
-  },
-  {
-    "Name": "Work",
-    "Description": "9"
+    "Children": [
+      {
+        "Name": "What do you want to change about yourself?"
+      },
+      {
+        "Name": "What motivates you to work hard?"
+      },
+      {
+        "Name": "Who is your hero?"
+      },
+      {
+        "Name": "What is your biggest fear?"
+      },
+      {
+        "Name": "What is your proudest accomplishment?"
+      },
+      {
+        "Name": "What makes you feel accomplished?"
+      },
+      {
+        "Name": "What's something that people frequently misunderstand about you?"
+      },
+      {
+        "Name": "What do you look forward to about getting old?"
+      },
+      {
+        "Name": "What advice would you give to your younger self?"
+      }
+    ]
   }
 ]
